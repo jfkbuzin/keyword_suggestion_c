@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1449404769 source:d:\ufrgs\estruturas de dados\trab livros\tj\func_trab.c
+	"func_trab.h"
+
+1449369578 d:\ufrgs\estruturas de dados\trab livros\tj\func_trab.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1449406565 source:d:\ufrgs\estruturas de dados\trab livros\tj\main.c
+	"func_trab.h"
+
+1449507906 source:e:\docs jo\ufrgs\tj\func_trab.c
+	"func_trab.h"
+
+1449507906 e:\docs jo\ufrgs\tj\func_trab.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1449508732 source:e:\docs jo\ufrgs\tj\main.c
+	"func_trab.h"
+
+1449507908 source:c:\users\tati\desktop\ed-prof. galante\tatiana_josue\tj\func_trab.c
+	"func_trab.h"
+
+1449507908 c:\users\tati\desktop\ed-prof. galante\tatiana_josue\tj\func_trab.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1449508734 source:c:\users\tati\desktop\ed-prof. galante\tatiana_josue\tj\main.c
+	"func_trab.h"
+
+1449507908 source:c:\codeblocks\tatiana_josue\tj\func_trab.c
+	"func_trab.h"
+
+1449507908 c:\codeblocks\tatiana_josue\tj\func_trab.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1449589936 source:c:\codeblocks\tatiana_josue\tj\main.c
+	"func_trab.h"
+

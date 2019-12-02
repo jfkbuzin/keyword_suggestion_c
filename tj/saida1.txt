@@ -1,0 +1,68 @@
+
+Consulta: the
+Sugestão: door                  (0,153168)
+Sugestão: car                  (0,145987)
+Sugestão: street                  (0,127000)
+Sugestão: steps                  (0,114876)
+
+Consulta: house
+Sugestão: surrounded                  (0,188982)
+Sugestão: any                  (0,133631)
+Sugestão: full                  (0,084515)
+Sugestão: outside                  (0,072739)
+
+Consulta: with
+Sugestão: us                  (0,139010)
+Sugestão: tears                  (0,127688)
+Sugestão: a                  (0,085656)
+Sugestão: thick                  (0,085126)
+
+Consulta: sitting
+Sugestão: opposite                  (0,235702)
+Sugestão: alone                  (0,136083)
+Sugestão: close                  (0,105409)
+Sugestão: under                  (0,096225)
+
+Consulta: but
+Sugestão: signor                  (0,102062)
+Sugestão: sollozz                  (0,102062)
+Sugestão: michael                  (0,090487)
+Sugestão: decided                  (0,083333)
+
+Consulta: one
+Sugestão: special                  (0,162221)
+Sugestão: autumn                  (0,162221)
+Sugestão: throwing                  (0,162221)
+Sugestão: knee                  (0,162221)
+
+Consulta: family
+Sugestão: business                  (0,200574)
+Sugestão: lived                  (0,109109)
+Sugestão: during                  (0,089087)
+Sugestão: restaurant                  (0,062994)
+
+Consulta: clemenza
+Sugestão: cried                  (0,154303)
+Sugestão: kissed                  (0,109109)
+Sugestão: hid                  (0,089087)
+Sugestão: reached                  (0,089087)
+
+Consulta: my
+Sugestão: father                  (0,387551)
+Sugestão: number                  (0,130189)
+Sugestão: reasons                  (0,130189)
+Sugestão: arrangements                  (0,130189)
+
+Consulta: tom
+Sugestão: hagen                  (0,470649)
+Sugestão: coughed                  (0,102598)
+Sugestão: looked                  (0,073057)
+Sugestão: nodded                  (0,072548)
+
+Consulta: you
+Sugestão: re                  (0,235702)
+Sugestão: think                  (0,100504)
+Sugestão: doing                  (0,094281)
+Sugestão: want                  (0,091499)
+
+O tempo gasto na tokenizacao do arquivo foi de 266 ms

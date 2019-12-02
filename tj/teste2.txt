@@ -1,0 +1,1 @@
+A Lua encontra-se em rotação sincronizada com a com a
